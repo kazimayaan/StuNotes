@@ -4,13 +4,36 @@
    background-size: contain;
 }
 #feature{
-    background-image: url("kk.jpeg");
-    background-size: contain;
+    /* background-image: url("lol.jpg"); */
+    border-radius: 5px;
+    background-color: aliceblue;
+
 }
+
 #tt{
     background-color: #dcdcef;
+    /* background-image: url("kkk.png"); */
+
 }
 
 .foor{
     background-color: #eeeef8;
+    /* background-image: url("kkk.png"); */
+
+}
+
+#head{
+
+    background-color: rgb(225, 227, 234);
+    border-radius: 10px;
+    background-color: aliceblue;
+
+}
+#f2{
+    background-color: rgb(225, 227, 234);
+    border-radius: 10px;
+}
+#f1{
+    background-color: aliceblue;
+    border-radius: 10px;
 }
