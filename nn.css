@@ -1,0 +1,16 @@
+.features{
+
+   background-image: url("newnote.png");
+   background-size: contain;
+}
+#feature{
+    background-image: url("kk.jpeg");
+    background-size: contain;
+}
+#tt{
+    background-color: #dcdcef;
+}
+
+.foor{
+    background-color: #eeeef8;
+}
