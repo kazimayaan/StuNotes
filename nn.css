@@ -6,7 +6,8 @@
 #feature{
     /* background-image: url("lol.jpg"); */
     border-radius: 5px;
-    background-color: aliceblue;
+    max-width: 80%;
+    margin: auto;
 
 }
 
@@ -32,8 +33,24 @@
 #f2{
     background-color: rgb(225, 227, 234);
     border-radius: 10px;
+    margin: 10px;
+    width: 23vw;
+
+
+    
 }
 #f1{
     background-color: aliceblue;
     border-radius: 10px;
+    margin: 10px;
+    width: 23vw;
+
 }
+#f3{
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin: 10px;
+    width: 23vw;
+}
+
+
